@@ -36,3 +36,4 @@ C:\Users\Admin\Downloads\Forms_Cadastro_de_notas_Faculdade-master\Forms_Cadastro
 C:\Users\Admin\Downloads\Forms_Cadastro_de_notas_Faculdade-master\Forms_Cadastro_de_notas_Faculdade-master\obj\Debug\net10.0-windows\Cadastro_De_Notas.genruntimeconfig.cache
 C:\Users\Admin\Downloads\Forms_Cadastro_de_notas_Faculdade-master\Forms_Cadastro_de_notas_Faculdade-master\obj\Debug\net10.0-windows\ref\Cadastro_De_Notas.dll
 C:\Users\Admin\Downloads\Forms_Cadastro_de_notas_Faculdade-master\Forms_Cadastro_de_notas_Faculdade-master\obj\Debug\net10.0-windows\Cadastro.FA44F4A7.Up2Date
+C:\Users\Admin\Downloads\Forms_Cadastro_de_notas_Faculdade-master\Forms_Cadastro_de_notas_Faculdade-master\obj\Debug\net10.0-windows\Cadastro_De_Notas.sourcelink.json

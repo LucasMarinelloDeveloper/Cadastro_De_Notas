@@ -48,5 +48,10 @@ namespace Cadastro_De_Notas
         {
 
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

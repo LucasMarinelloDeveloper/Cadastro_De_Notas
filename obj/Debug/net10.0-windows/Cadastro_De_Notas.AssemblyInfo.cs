@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cadastro_De_Notas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11be8b61d2c9b797987d88055fc9bafc626fddf0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7253bc5d994f4928a398f597e5c66fee45efbb14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cadastro_De_Notas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cadastro_De_Notas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
